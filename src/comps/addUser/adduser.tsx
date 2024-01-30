@@ -3,7 +3,12 @@ import { AddUserForm } from "./addUserForm";
 import { Users } from "../global/types";
 
 export const AddUser = () => {
-  const [users, setUsers] = useState<Users>([]);
+  // Variante mit
+  //const [users, setUsers] = useState<Users>([]);
+
+  // Variante mit Interface
+  const [users, setUsers] = useState<Users[]>([]);
+
   return (
     <>
       <h1>Add User</h1>
