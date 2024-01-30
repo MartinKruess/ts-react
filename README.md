@@ -8,6 +8,6 @@ Die themen hier sind:
 
 weitere Informationen zu Typescript:
 
-- (Typescript (Offiziell))[https://www.typescriptlang.org/docs/]
-- (React Typescript)[[https://www.typescriptlang.org/docs/](https://react.dev/learn/typescript#)]
-- (React Typescript (Videos))[[https://www.typescriptlang.org/docs/](https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK)https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK]
+- [Typescript (Offiziell)](https://www.typescriptlang.org/docs/)
+- [React Typescript](https://www.typescriptlang.org/docs/](https://react.dev/learn/typescript#))
+- [React Typescript (Videos)]([https://www.typescriptlang.org/docs/](https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK)https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK)
