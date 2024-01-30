@@ -1,4 +1,4 @@
-// type User = {
+// export type User = {
 //   firstname: string;
 //   password: string;
 // };
@@ -10,12 +10,12 @@
 //   setUsers: React.Dispatch<React.SetStateAction<Users>>;
 // };
 
-interface User {
+export interface User {
   firstname: string;
   password: string;
 }
 
-export interface Users {
+export interface UserState {
   users: User[];
   setUsers: React.Dispatch<React.SetStateAction<User[]>>;
 }

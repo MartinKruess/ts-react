@@ -1,14 +1,17 @@
 import { useState } from "react";
 import { AddUserForm } from "./addUserForm";
-import { Users } from "../global/types";
+// Variante mit Alias
+//import { Users } from "../global/types";
+
+// Variante mit Interface
+import { User } from "../global/types";
 
 export const AddUser = () => {
-  // Variante mit
-  //const [users, setUsers] = useState<Users>([]);
+  // Variante mit Alias
+  // const [users, setUsers] = useState<Users>([]);
 
   // Variante mit Interface
-  const [users, setUsers] = useState<Users[]>([]);
-
+  const [users, setUsers] = useState<User[]>([]);
   return (
     <>
       <h1>Add User</h1>

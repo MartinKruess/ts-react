@@ -13,7 +13,7 @@ export const AddUserForm: React.FC<UserState> = ({ users, setUsers }) => {
   };
 
   return (
-    <form onSubmit={(e) => submitHandler(e)}>
+    <form onSubmit={submitHandler}>
       <input type="text" name="firstname" />
       <input type="text" name="pw" />
       <button type="submit">Add</button>
